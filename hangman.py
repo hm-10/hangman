@@ -1,5 +1,5 @@
 import random
-aaaa
+aaaaaaa
 def hangman():
     wordlist = ["getwild","lemon","honey"]
     word = random.choice(wordlist)
