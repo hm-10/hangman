@@ -1,5 +1,9 @@
 import random
+<<<<<<< HEAD
 aaaalfdlajaaaa
+=======
+aaa
+>>>>>>> 90abce39e0505329cb995b8cf71c4f6c4fd9899f
 def hangman():
     wordlist = ["getwild","lemon","honey"]
     word = random.choice(wordlist)
